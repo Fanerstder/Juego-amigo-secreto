@@ -12,6 +12,19 @@ un boton "sortear Amigos" selecionara a uno de los nombres de forma aleatoria, m
 * Validar entrada: si el campo de texto esta vacío, el programa mostrará una alerta pidiendo un nombre válido.
 * Sorteo Aleatorio: al hacer clic en el botón "Sortear Amigos", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
+  ## contruido con las tecnologías
+  * HTML
+  * CSS
+  * JAVASCRIPT
+    
+  ## vista página
+  <span>![</span><span> Imagen del diseño de la aplicacion del juego del amigo secreto</span><span>]</span><span>(</span><span>https://github.com/Fanerstder/Juego-amigo-secreto/blob/main/assets/image001.jpeg</span><span>)<span>
+  
+  <span>![</span><span> Imagen del diseño de la aplicacion del juego del amigo secreto</span><span>]</span><span>(</span><span>https://github.com/Fanerstder/Juego-amigo-secreto/blob/main/assets/image002.jpeg</span><span>)<span>
+  
+  <span>![</span><span> Imagen del diseño de la aplicacion del juego del amigo secreto</span><span>]</span><span>(</span><span>https://github.com/Fanerstder/Juego-amigo-secreto/blob/main/assets/image003.jpeg</span><span>)<span>
+  
+  <span>![</span><span> Imagen del diseño de la aplicacion del juego del amigo secreto</span><span>]</span><span>(</span><span>https://github.com/Fanerstder/Juego-amigo-secreto/blob/main/assets/Video001.mp4</span><span>)<span>
   ## Autor
   Faner santander villadiego
 
