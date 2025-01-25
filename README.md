@@ -18,7 +18,7 @@ un boton "sortear Amigos" selecionara a uno de los nombres de forma aleatoria, m
   * JAVASCRIPT
     
   ## vista página
-  <span>![</span><span> Imagen del diseño de la aplicacion del juego del amigo secreto</span><span>]</span><span>(</span><span>https://github.com/Fanerstder/Juego-amigo-secreto/blob/main/assets/image001.jpeg</span><span>)<span>
+  <span>![</span><span> Imagen del diseño de la aplicacion del juego del amigo secreto</span><span>]</span><span>(</span><span>![Image](https://github.com/user-attachments/assets/765871d0-f196-4d57-9ea5-b3bed07cd0b8)</span><span>)<span>
   
   <span>![</span><span> Imagen del diseño de la aplicacion del juego del amigo secreto</span><span>]</span><span>(</span><span>https://github.com/Fanerstder/Juego-amigo-secreto/blob/main/assets/image002.jpeg</span><span>)<span>
   
