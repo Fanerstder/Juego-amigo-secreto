@@ -24,7 +24,7 @@ un boton "sortear Amigos" selecionara a uno de los nombres de forma aleatoria, m
   
   <span></span><span> Imagen del diseño de la aplicacion del juego del amigo secreto</span><span></span><span></span><span>![Image](https://github.com/user-attachments/assets/8532b851-11ab-4e10-95fe-3d20dd8c1a76)</span><span><span>
   
-  <span></span><span> Imagen del diseño de la aplicacion del juego del amigo secreto</span><span></span><span></span><span>https://github.com/user-attachments/assets/3be5a3d7-1078-4199-ba72-77a619cbe263</span><span><span>
+  <span></span><span> Imagen del diseño de la aplicacion del juego del amigo secreto</span><span></span><span></span><span>![video]https://github.com/user-attachments/assets/3be5a3d7-1078-4199-ba72-77a619cbe263</span><span><span>
   ## Autor
   Faner santander villadiego
 
